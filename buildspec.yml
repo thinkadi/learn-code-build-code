@@ -19,4 +19,4 @@ artifacts:
   files:
     - index.js
     - node_modules/**/*
-  discard-paths: yes
+  discard-paths: no
